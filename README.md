@@ -1,4 +1,4 @@
-# Macbook Setup Boilerplate Development Environemnt
+# Macbook Boilerplate Development Environemnt
 ---
 - For now this is manual. You will need to go through all of this documentation to configure properly.
 - I will add an ./install.sh script in the future
