@@ -1,6 +1,6 @@
 # Macbook Boilerplate Development Environemnt
 ---
-- For now this is manual. You will need to go through all of this documentation to configure properly.
+- For now this is like a manual. You will need to go through all of this documentation to configure properly.
 - I will add an ./install.sh script in the future
 #### Unlike most automated installs, this one requires you to go through everything yourself. Here I have laid out the articles in more or less a linear order. 
 ##### Have Fun. Vim on.
