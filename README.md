@@ -20,7 +20,6 @@
 - [Setting Up Neovim for Web Development in 2020 | by Dominik Tarnowski | Better Programming | Medium](https://medium.com/better-programming/setting-up-neovim-for-web-development-in-2020-d800de3efacd)
 - [Configure iTerm2 and Vim like a Pro | by Yong Su | Medium](https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c)
 - [tmux-plugins/tpm: Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
-- 
 - [tmux and some emscripten that fixes your path if you can't access emcc](https://gist.githubusercontent.com/integrate-your-mind/49abe9d14c1200b093313b46613558fa/raw/fdfd0adfe30620fcd2cd85ae6a21792857718412/startup%2520command%2520for%2520emscripten)
 - [Auto-Starting Tmux in iTerm2. Iterm2 & Tmux are awesome and they… | by Sašo Matejina | Medium](https://medium.com/@sasom/auto-starting-tmux-in-iterm2-4276182d452a)
 - [Configure left alt meta key in iTerm2](https://stackoverflow.com/questions/196357/making-iterm-to-translate-meta-key-in-the-same-way-as-in-other-oses)
